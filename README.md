@@ -1,6 +1,6 @@
 ## About me:
 - 🔭 I’m currently working on my own website, discord bot
-- 🌱 I’m currently learning html, JavaScript, Java
+- 🌱 I’m currently learning html, JavaScript, Java, Python
 
 - ⚡ Fun fact: I like Red Dead Redemption
 
